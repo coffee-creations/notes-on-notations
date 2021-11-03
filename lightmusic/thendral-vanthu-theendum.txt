@@ -1,0 +1,75 @@
+
+Song       : Thendral Vanthu Theendum Pothu
+Raagam     : 
+Arohanam   : 
+Avarohanam : 
+
+Created on : Fri Oct 08 2021 at 02:46:05 UTC 
+		   : Day: 281, Week: 40  
+
+
+Thanda Dana Daana Daana
+S   G  R G  S  G  R  G
+
+Daana Daana Na Tananana
+S  G  R  G  N  S R S D
+
+Thanda Dana Daana Daana 
+S   G  R G  S  G  R  G
+
+Daana Daana Na Tananana
+S  G  R  G  N  S R S D
+
+Thendral Vanthu Theendum Pothu 
+S   G    R  G   S    G   R G
+
+Enna Vannamo Manasula
+SG   R G  N  S R S D
+
+Thingal Vanthu Kaayum Pothu 
+S   G   R  G   S  G   R G
+
+Enna Vannamo Ninapula
+SG   R G  N  S R S D
+
+Vanthu Vanthu Poguthamma
+S  G   R  G   S R G  D
+
+Ennamellam Vannamamma
+PD  N S    N S  N P
+
+Ennagalukku Aethapadi 
+S   G R G   S R  G D
+
+Vannamellam Maarumamma
+P D  N S    N  S N P
+
+Unmaiyamma 
+R G  m P  
+
+Ullatha Naanum Sonnen
+m P m   G  R   G M
+
+Ponnamma Chinna Kanne || Thendral
+G M  G   R  S   S G
+
+Evarum Sollaamale Pookkalum Vaasam Veesuthu
+NN S   G G   G D  D  N  S   N  S   N  P D
+
+Uravum Illaamale Iru Manam Aetho Pesuthu
+NN S   GG   G D  D   N S   NSRG  S D N
+
+Evarum Sollaamale Kuyil Ellam Thaena Paaduthu
+NN S   G G   G D  D     NS    N   S  N  P D
+
+Ethuvum Illaamale Manasellam Inippaa Inikkuthu
+NN  S   GG   G D  D   N S    NS RG   S  N  S
+
+Ooda Neeroda Intha Ulagam Athu Pola
+DNS  SG RGS  N D   GM P   PN   DNP
+
+Oodum Athu Oodum Intha Kaalam Athu Pola
+DNS   SG   RGS   N D   GM P   PN   DNP
+
+Nilaiyaa Nillaathu Ninaivil Varum Nirangale || Thendral
+G D  D   G D DGN   N S  N   D Pm  P D  P m G

@@ -1,0 +1,21 @@
+
+Song       : DDLJ theme music
+Raagam     : 
+Arohanam   : 
+Avarohanam : 
+
+Created on : Fri Oct 01 2021 at 05:23:39 UTC 
+		   : Day: 274, Week: 39  
+
+1st version:
+ddd-G- R--G-- S-R--M-G--
+ddd-G- R--G-- S-R-S-n---
+ 
+d-n- p--d--n- p-- d- S-n-
+d-n- p--d--n- p-- S-n-d-
+
+
+2nd version
+g-g- g--n-- d-n``  p--d--  S--n```  n``nn` n``nn`n```
+g-g- g--n-- d-n``  p--d--  p--m```  m``mm` m``mm`n```
+

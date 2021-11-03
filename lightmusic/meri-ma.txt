@@ -1,0 +1,13 @@
+## ====== **  meri-ma.txt  **   ======== 
+#Created on: Thu May 06 2021 at 13:38:17 UTC 
+#		   - Day: 126, Week: 18 
+
+
+g , p p., m p d., m., p p
+n,,n, n., n., S ., d d ., m, p p
+p p, d d ,  S S R., n S S.,
+
+
+r,r., s,s., .. g,g., r,r., 
+r,r., s,s., .. d,s,r., g., s., r., g.,
+

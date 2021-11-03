@@ -1,0 +1,37 @@
+
+Song       :  inji iduppazhagi
+Raagam     : 
+Arohanam   : 
+Avarohanam : 
+
+Created on : Wed Jun 30 2021 at 13:08:22 UTC 
+		   : Day: 181, Week: 26  
+
+inji iduppazhagi manja segappazhagi
+kalla sirippazhagi marakka manam koodudhillaiye
+
+p-p,ps-spd.~pm  p.,mg, p-p,ps-spd.~pm  p.,mg, 
+p-p-ps-spd~~pm  p.,mg, pdn-dn., pn.,pm, g,m., p-S.~~   S~~~~
+
+pgrg.~ rsr.~, sns.,n.~  pgrg.~ rsr.~, sns.,n.~     
+pgrg.~ rsr.~, sns.,n.~  pgrg.~ rsr.~, sns., 
+dn., dn., dn.~R.,S, g.~n., p,
+
+p-p,ps-spd.~pm  p.,mg, p-p,ps-spd.~pm  p.,mg, 
+p-p-ps-spd~~pm  p.,mg, pdn-dn., pn.,pm, g,m., p-S.~~   S~~~~
+
+nn.,n.,  S.,S-SR.,Sn., nn.,n,n., S.,S-S.,S.,
+nn.,n,n., S.,n-dpd., nSn-d.,p-p.,~~~ n,
+nn.,n.,  S.,S-SR.,Sn., nn.,n,n., S.,S-S.,S.,
+nn.,n,n., S.,n-dpd., nSn-d.,p-p.,~~
+
+pg-g.,m, rg-rgmg-rs., pg-g.,m, rg-rgmg-rs., 
+pg-gm.,-gr~g.,-rsr., ns-sr.~~, mr.,-mr., sn., 
+pg-g.,m, rg-rgmg-r,s., pg-g.,m, rg-rgmg-r,s., 
+pg-gm., rgmg., rsr., ns-sr.~~, gr., sn., 
+
+pgrg.~ rsr.~, sns.,n.~  
+dn., dn., dn.~r.,s, g.~n., p,
+p-p,ps-spd.~pm  p.,mg, p-p,ps-spd.~pm  p.,mg, 
+p-p-ps-spd~~pm  p.,mg, pdn-dn., pn.,pm, g,m., p-S.~~   S~~~~
+

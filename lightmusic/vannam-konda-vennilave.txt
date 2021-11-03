@@ -1,0 +1,40 @@
+
+Song       : vannam konda vennilave
+Raagam     : 
+Arohanam   : 
+Avarohanam : 
+
+Created on : Sun Jun 20 2021 at 01:53:37 UTC 
+		   : Day: 171, Week: 24  
+
+vannam konda vennilave vaanam vittu vaaraayo
+s,g1,r., s,n,d,n., s., n,r., s., 
+s,g1,r., s,n,d,n., s,r.,s,r.,m., g1., r., s., 
+s,g1,r., s,n,d,n., s., n,r., s., 
+s,g1,r., s,n,d,n., s,r.,s,r., m~., g1., r., s., 
+
+vinnile paadhai illai., unnai thoda eni illai
+g2 hereafter
+
+g.,g-g.,r,s, r,g,m.,m.,-g.,,m.,  r.,m, p,S, g~~,m, r,s., 
+g.,g-g.,r,s, r,g,m.,m.,-g,m...,  r.,m, p,S, g~~,m, r,s.,
+
+pakkaththil neeyum illai, paarvaiyil eeram illai
+sondhathil baashai illai, swaasikka aasai illai
+kandu vandhu solvadharku kaatrukku gnaanam illai
+neelathai pirithu vittal vaanaththil edhum illai
+thalli thalli nee irundhaal sollikolla vaazhkkai illai
+
+m.,m.,m., d., d,d.,d.,  d.,d.,m., p,d,n., n.,d.n.~,
+n.,n.,n., n.,d.,p,d., n.,n.,n., n.~, d.,p., 
+p,n.,S,R., G.~~, S,S, S.,  d., m.,  
+m.,m.,m., sdns, n,d., d.,d.,  d.,d.,m., p,d,n., n.,d,s.,n.~,
+n.,n.,n., n.,d.,p,d., n.,n.,n., n.~, d.,,p., 
+p,n.,S,R., G.~~, S,S, S.,   
+
+n,S, R,G, G.,G, R.,M,G., M.,G, M.,G, S.,S, R.,R,R,R., R.~,p.,
+n.,n., n.,S, d,p, m,p,n., p.,m,g.,  
+g.,m,p,n., S,G,R.,M.,G, S.,S., 
+S.,S., S,R., n.,n, p,d.~, p,m,r.,
+r.,m., p,S., g.,m, r,s., 
+

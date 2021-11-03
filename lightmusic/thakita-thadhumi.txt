@@ -1,0 +1,43 @@
+
+srg., srg., srg., srg.,  s., r., g.,
+srg., srg., srg., srg.,  g., r., s.,
+
+pdpm., pdpm., pdpm., S., n., d.,
+pdpm., pdpm., pdpm., n., d., p.,
+n.,d,p., d.,p,m., p., m,g., m.,g,r.,
+
+srg., srg., srg., srg.,  s., r., g.,
+srg., srg., srg., srg.,  g., r., s.,
+
+s,s,s   s.,s   s,s,s.,
+s.,s, s.,r., n,n,n.,
+n,n,n., n.,n., n,n,n.,
+n.,d, d.,n., d,p,p.,
+
+s,s,s   s.,s   s,s,s.,
+s.,s, s.,r., n,n,n.,
+n,n,n., n.,n., n,n,n.,
+n.,d, d.,n., d,p,p.,
+
+pdpm., pdpm., pdpm., p,r.,rg., S., n., 
+pdpm., pdpm., pdpm., p,s,s., s,r, n.,
+r.,r, g.,s, s.,s, r.,n.,  
+r.,r, g.,s, s.,s, r.,n.,  
+r.,n, s.,g, n.,p,  d.,m, p.,r.,
+
+srg., srg., srg., srg.,  s., r., g.,
+srg., srg., srg., srg.,  g., r., s.,
+
+pdpm., pdpm., pdpm., S., n., d.,
+pdpm., pdpm., pdpm., n., d., p.,
+n.,d,p., d.,p,m., p., m,g., m.,g,r.,
+
+s...., p.....,
+pd.,pd.,pd., pd.,pd.,pdg,rgs.,pdg,rgs.,
+pd.,pd.,pd., pd.,pd.,pdg,rgs.,pdg,rgs.,
+srg.,srg., m.,m.,gr.,  
+srg.,srg., p.,p.,gr.,  
+s,g.,g.,g., s,g.,g.,g., s, s., s.,
+s.,s, n,d,, p,,m,g,r,s.,
+
+

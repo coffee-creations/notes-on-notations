@@ -1,0 +1,29 @@
+
+Song       : vaseegara
+Raagam     : 
+Arohanam   : 
+Avarohanam : 
+
+Created on : Thu May 20 2021 at 05:23:46 UTC 
+		   : Day: 140, Week: 20  
+
+g = g1 - saadharana gaandhaaram
+d = d1 - saadharana dhaivatham
+
+r,g., r,g., r,gm,r,g., rgm.,rg., 
+r., rpp, g~., r.,
+gsg, rg., rgm,rg., rgm,rg., 
+s.,g.,r, s,rn., s.,
+s.,g.,r,n., n.,r,s,d., d.,n,dp., r.,s., 
+s.,g.,r,n., n.,r,s,d., d.,n,dp., r., s......
+
+sgmp., m,p., m,p., m,p., m,p.,  g~.,r.,
+m., m.,p,g., rgs., smm., m.,m.,  rmpd, p..,
+sgmp., m,p., m,p., m,p., n'p., g.,r.,
+m., m.,p,g., rgs., smm., m.,m., rmpd, m,p..,
+
+p,s., p., p,r~.,p., p.,g.,g, r.,s., n.,n.,s.,
+s,ss.,p., p,n~.,m., m.,d~.,p, m., g~.,r., g.,r.,
+
+r..,gsg., r,g., r,gm,r,g., rgm.,rg., r., rpp, g., r.,
+gsg, rg., rgm,rg., rgm,rg., s.,g~.,r, srn., s.,

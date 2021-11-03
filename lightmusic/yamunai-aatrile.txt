@@ -1,0 +1,21 @@
+
+Song       : yamunai aatrile
+Raagam     : kalyaani
+Arohanam   : 
+Avarohanam : 
+
+Created on : Thu May 20 2021 at 11:29:34 UTC 
+		   : Day: 140, Week: 20  
+
+
+s,s,s,s s.,s, s., n,s,r, r.,r, r.,
+g,r,g, s.,s, s., s.,~,n.,
+
+s,s,s,s s.,s, s., n,s,r, r.,r, r.,
+g,r,g, s.,s, s., s.,~,n., r.,s,s., 
+
+p.,g,p, p.,p,p., p.,m,d, p.,m,g,m., pmg..,
+p.,g,p, p.,p,p., p.,m,d, p.,m,g,
+
+p,m,g,d.,  p,m,g,p., m,g,r,m., g,r.,s.,n., 
+p,m,g,d.,  p,m,g, p.,m,g,r,  m,g,r.,  s.,n., 

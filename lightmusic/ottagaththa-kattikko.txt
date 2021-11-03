@@ -1,0 +1,125 @@
+
+Song       :  ottagaththa kattikko
+Raagam     : 
+Arohanam   : 
+Avarohanam : 
+
+Created on : Thu Oct 07 2021 at 16:55:53 UTC 
+		   : Day: 280, Week: 40  
+
+
+Prelude
+SN m g      m  P N D S
+
+NS N R      S  N D P S
+
+NS NS   N S NDP
+
+PD SN   D P m g R
+
+S R g    R g m   g m P    m D
+
+S N D P m    g  P   m g R S S
+
+Ottagaththa Kattikkoa
+S R R g     R S  S N
+
+Gettiyaaga Ottikkoa
+S R  R  g  R S S N
+
+Vatta Vatta Pottukkaari
+S R   R P   g R  S N S
+
+Vidavaendum Achchaththai Thodavaendum Uchchaththai
+m P m   g   m   P D      m  P m   g   m  P  D
+
+Adhigaalai Chaelai Sollumadi Michchaththai
+DS  N  D   P   m   g    m    P  m   g RS ||P||
+
+Interlude
+
+Flute
+S S    P    PPP    PP  PP
+
+S S    P    PPP    PP  PP
+
+Trumpet:
+S S    Pm P S   SN  N S   P
+
+S S    Pm P S   SN  N S   P
+
+Chorus:
+Ziki Zum Zipo Zipo Zipo Zum
+S N  S   S N  S N  S N  S
+
+Ziki Zum Zipo Zipo Zipo Zum
+S N  S   S N  S N  S N  S
+
+Violin
+SRg m PSRg m PSRg m P
+
+SSS SSS SSS SSS
+
+SRg m PSRg m PSRg m P
+
+SSS SSS SSS SSS
+
+Chorus:
+Ho Ho   Ho Ho Ho
+S  g    S  S  g 
+
+S  g    S  S  g 
+
+Trumpet:
+S S P
+
+Kannae En  Munnae Kadalum Thullaadhu
+P SS S SS  R S N  N S N D NS  S  S
+
+Pennae Naan  Thoondil Poattaal Vinmeenum Thappaadhu
+P S S  g     R    S   R  S  N  NS N  D   ND P   P
+
+Ullangaith Thaenae Kalvan  Naandhaanae
+P S SS     SS RSN  N S ND  NS  S   S
+
+Kallvanaik Kollai Konda Kalli Needhanae
+P S S g    R S    RS N  NSND  ND P  P
+
+Pon Kondadhundu Pen Kondadhillai
+m m m  m PP DDD PP  P  P DD NNN
+
+Angam Sondhamaanaal Thangam Thaevaiyillai
+g R   S     N  D    P S ND  Pm  g  R S ||P||
+
+Interlude
+
+S S   P m    P m g m D
+
+m P m P m g  m g m P D
+
+S NDP   m P D  m g 
+
+g m   P D P    S N D P
+
+m Pm Pm Rg m Pm g DNS
+
+S   P   m P m P
+
+S   P   m P m P
+
+S   P   m P m P
+
+D S N D P
+
+Chorus:
+
+P S N DNDP g m g RS
+
+P S N DNDP g m g RS
+
+SRg m PSRg m PSRg m P
+
+Voice:
+Aaaa Aaa    Aaaaa A A A A A...
+S    N S R  SNDPm g m P m D
+

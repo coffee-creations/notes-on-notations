@@ -1,0 +1,26 @@
+
+Song       : aakaasam enaatido - sangathil paadaatha
+Raagam     : 
+Arohanam   : 
+Avarohanam : 
+
+Created on : Fri May 21 2021 at 07:59:12 UTC 
+		   : Day: 141, Week: 20  
+
+s.,r.,g., s.,r.,s, n,r,p., s.,r.,g., s.,r.,n,s.,
+s.,r.,g., s.,r.,s, n,r,p., s.,r.,g., s.,r.,n,s.,
+g.,g.,m, r,m,g.,r,  s,r.,n,s, g.,g.,m, r,m,g.,r,r., 
+g.,g.,m, r,m,g.,r,  s,r.,n,s, g.,g.,m, r,m,g.,r,r., 
+s.,r.,g., s.,r.,s, n,r,p., s.,r.,g., s.,r.,n,s.,
+s.,r.,g., s.,r.,s, n,r,p., s.,r.,g., s.,r.,n,s.,
+
+m.,m.,p, m.,p.,n, pmmr., m.,m.,p, m.,p.,n,m., 
+m.,m.,p, m.,p.,n, pmmr., m.,m.,p, m.,p.,n,m., 
+m.,p.,n~., m.,p.,n, nnn.,s, m.,p.,n~., m.,p.,n, nnn.,s,
+m.,p.,n~., m.,p.,n, nnn.,s, m.,p.,n~., m.,p.,n, nnn.,s,
+n.,s., rg, rg, r~.,g.~., n.,s., gm, gm, g.~., m~.,
+g,r.,n.,  n.,s.,r,  ddp., d.,p.,m, g,m,n.,p, grsn.,
+
+s.,r.,g., s.,r.,s, n,r,p., s.,r.,g., s.,r.,n,s.,
+s.,r., gr, gr, s.,n, s,r., m,g., n.,p, 
+s.,r., gr, gr, s.,n, s,r., s.,

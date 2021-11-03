@@ -1,0 +1,45 @@
+
+Song       : azhage azhagu - saivam movie
+Raagam     : Kanada
+Arohanam   : 
+Avarohanam : 
+
+Created on : Fri May 21 2021 at 07:23:59 UTC 
+		   : Day: 141, Week: 20  
+
+s.,s.,s.,s., n,s,r.,s, p.,
+m,m,d., d.,d,s, n.,p.,p.,
+s.,s.,s.,s., n,s,r.,s, p.,
+m,m,d., d.,d,s, n.,p.,p.,
+g,m,d, n,s.., n,r.,s.,
+g,m,d, n,s.., g,r.,s.,
+
+m,m,p.., m,n.,p., g,m,g~.,g, s.,n., p,p.,
+m,m,p.., m,n.,p., g,m,d~.,d, s.,n., p,p.,
+d,d., s.,s, r,s, n,n.,d., d,d, d,s., m.,g, m.,pm, gg,m., 
+d,d., s.,s, r,s, n,n.,d., d,d, d,s., m.,g, m.,pm, gg,m., 
+g.,m, g.,m g.,m, g.,m g.,m,n~.,p, g.,r., 
+g.,m, g.,m g.,m, g.,m g.,m,n~.,p, g.,r., 
+n,s,r,r., r.,r,p, g.,g,m., g.,r., s.,
+n,s,r,r., r.,r,p, g.,g,m., g.,r., s.,
+
+g,m,d, n,s.., n,r.,s.,
+g,m,d, n,s.., g,''r.,s.,
+
+m,d, n,s, s,s, s.,s,s., 
+m,d, n,r~., s,r, n~., d,d~~.,
+m,d, n.,d, d,m, m,g.,m, m~., 
+m,d, n.,d, d,m, m,g~.,m, m~.,
+m,d, n,s, s.,,, s.,s,s., 
+m,d, n,r~., s,r, n~., d,d~~.,
+m,d, n.,d, d,m, m,g.,m, m~., 
+m,d, n.,d, d,m, m,g~.,m, m~.,
+m,d,m, n.,d, d,d~., n.,p, p.,p, p,p,p.,
+m,d,m, n.,d, d,d~., n,r., n.,p, p.,p,  pdm~.,p., 
+
+g,m,d, n,s.., n,r.,s.,
+g,m,d, n,s.., g,''r.,s.,
+m,m,p.., m,n.,p., g,m,g~.,g, s.,n., p,p.,
+m,m,p.., m,n.,p., g,m,d~.,d, s.,n., p,p.,
+
+

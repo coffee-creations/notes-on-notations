@@ -1,0 +1,46 @@
+
+Song       : uyire uyire
+Raagam     : 
+Arohanam   : 
+Avarohanam : 
+
+Created on : Mon Jun 07 2021 at 10:23:21 UTC 
+		   : Day: 158, Week: 23  
+
+
+p.,p.,d..~..,    p.,S.,d..~., 
+p,d, n.,S..,n.,  d,p-p.,p, p.,mg.., 
+p.,p.,d..~..,    p.,S.,d.~~., 
+p,d, n.,S..,n.,  d,p-p.,p, p.,mg.., 
+
+p.,p.,m..~, m,p-p.,g..~,     mgrs.,
+s.,s., rm., rm.,m,  p.,m., r.,s,s.,
+p.,p.,m..~, p.,p,g..~, mgrs.,
+s.,s., rm,-rm.,m,  p.,m., r..~,s,s.,
+
+n.,n,S.., S., S,R., n,n,S.., d.,
+d,d.,,  d.,n, S..,S, R.,S., nd-p., p,    d.p.g.,
+n,n,S.., S., S,M.~R., S..,,n,  S.., d.,
+d.,d.,, d.,n,S..,S, R.,S., n,d,p., p,     p,r,    
+
+p.,p.,d..~..,    p.,S.,d..~., 
+p,d, n.,S..,n.,  d,p-p.,p, p.,mg.., 
+p.,p.,m..~, p.,p,g..~, mgrs.,
+s.,s., rm,-rm.,m,  p.,m., r..~,s,s.,
+
+m.,p.,S, d.,p,p,p., p.,p.,p., mpdp, mgr m.,p.,S, d.,p,p,p.,  
+m.,p.,S, d.,p,p,p., p.,p.,p., nddp  mgr m.,p.,S, d.,p,p,p., 
+pd, R..,R..,R.., S,R..,R..,R.., S,R.,R.,R., S,R,G'R., S,d,p., 
+p,d,S..,R.., M.,G.,R,R..,
+pd, R..,R..,R.., S,R..,R..,R.., S,R.,R.,R., S,R,M,R., S,d,p., 
+p,d,S..,R.., M.,G.,R,R..,
+
+S.,S.,d., S.,S.,d.,  p,m, 
+m.,m, m., p., d.., S, d.,p-m,g,r.,
+
+p.,p.,d..~..,     p.,S.,d..~., 
+p.,d, n.,S..,n.,  d,p-p.,p, p.,mg.., 
+p.,p.,m..~,   p.,p.,g..~,     mgrs.,
+s.,s., rm,-rm.,m, p.,m., r.,s,s.,
+
+

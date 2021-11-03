@@ -1,0 +1,37 @@
+
+Song       : Kaadhal rojave
+Raagam     : Kaapi n Desh
+Arohanam   : 
+Avarohanam : 
+
+Created on : Mon Jun 07 2021 at 06:23:38 UTC 
+		   : Day: 158, Week: 23  
+
+r,m,p,n, S..., p,n,S,R.., n...,d,p...,
+r,m,p,n, S..., p,n,S,R, n...,d,p...,
+r,m,p,d, m...,g, r.,g, r,n.,s.,
+r,m,p,d, m...,g, r.,g, r,n.,s.,
+
+kaadhal rojave
+s.,g..., r.,s.,n., s.,g..., r.,s.,n.,
+s.,g..., s,g1,m,d-p..,m, g1...,r.,
+g.,g.,m., g1.,r., g.,g.,m., g1.,r.,
+g.,g.,m..~., g1.,r., g.,g., m,n..p,m, g.,r.,
+s,r.,g-r..,s,  m,p.,d-p.,m., R.., RG, S,R.,
+
+gm gm gm, rg,r., sn, p., s.,r.,
+gm gm gm, rg,r., sn, p., s.,r.,
+gm,p,S,S p,p., mg, rgmg, m.,gr.,  
+gm,p,S,S p,p., mg, rgmg, m.,gr.,  
+
+g.,g, g.,g, g,r~., m.,g., g.,g, m.,p., r.,s,r.,
+g.,g, g.,g, g,r~., m.,g., g.,g, m.,p., r.,s,r.,
+g.,m, p.,S, S.~,p,p., p.,d, n.,d, d.~, p,m.,
+g.,m, p.,S, S.~,p,p., p.,d, n.,d, d.~, p,m.,
+g.,g, m.,p, g1.,r., g.,g, m.,p, g1.,r., 
+g.,g, m,p, g1.,r., g.,g, m,n.,p, g1.,r., 
+s.r.,g, r.,s, m,p.,d, p.,m., R..., R,G,S,R..,
+
+s.,g..., r.,s.,n., s.,g..., r.,s.,n.,
+s.,g..., s,g1,m,d-p..,m, g1...,r.,
+

@@ -1,0 +1,39 @@
+
+Song       : innum konja neram irundhaal than enna
+Raagam     : 
+Arohanam   : 
+Avarohanam : 
+
+Created on : Wed May 19 2021 at 14:35:23 UTC 
+		   : Day: 139, Week: 20  
+
+innum konja neram irundha dhaan enna
+p.,m,  gg-g.,m., p,p  p.,S-n.,S,  n~.,d.,
+S..,   n~d-dd, dn-dn-dn., p,d-mp.,,    d.pmg.,
+p.,m,  gg-g.,m., p,p p.,S-n.,S, n~~~.,d~.,
+S..,   n~~d-dd   dn-dn-dn., p,d, m,p.,, 
+
+p-p-p, p-d.,p-d., pd-dd-d-d., d-n.,d-n., n~S- S--SS-S-S,,
+n~,p.,p-p., p.,dn., p.,p,   p.,m, mm-mg,  g., r,s.,
+
+p,d., p,d., pd-dd-d-d., 
+d,n., SS-SG~~R, S.,SS-SS., S,S-RS-RS-n., SR-Sn., 
+d.,d., p-m,, d-pmg., rs,        d.,p., d.,p., 
+
+p.,m, gg-g.,m., pd-dn-n.,S, n~~.,d~.,
+S..,   n~d-dd, dn-dn-dn., p,d-mp.,,    d.pmg.,
+
+p-dd-SS-R., RG.,-GS., RG., GS., RG., GS.,
+M~.,G-Sn.,d., n.,RS-n-dp., dpp-pp., p.,
+p-dd-SS-R., RG., GS., RG., GS., RG., GS.,
+M~.,G-Sn.,d., n,dS-n~dp., dpp-pp., p., 
+
+p,d., p,d., p-d-d~~~., d,n, n-S-GR., S...,  S.S.,
+n~,p.,p-p., p.,dn., p.,p,   p.,m, mm-mg,  g., r,s.,
+p,d., p,d., pdd-d., md-n~S, GR., S.,  
+S,S, S.,G,R., R,S., n.,S,n~., S,n., 
+d., d., p,m., d,pmg., r,s       d..,p., d..,p., 
+
+p.,m, gg-g.,m., p,d-d,n, n.,S, n~~.,d~.,
+S.., n-d-dd-n.,r,  n-d-p., p-d-m,p.,, d.pmg.,
+

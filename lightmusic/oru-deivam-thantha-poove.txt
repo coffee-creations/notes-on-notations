@@ -1,0 +1,150 @@
+
+Song       : 
+Raagam     : 
+Arohanam   : 
+Avarohanam : 
+
+Created on : Mon Sep 27 2021 at 12:43:35 UTC 
+		   : Day: 270, Week: 39  
+
+
+Swaram for Oru Deivam Thantha 
+
+All small letters indicate smaller notes like r g m d n indicate chinna r, chinna g respectively. All capital letters indicate bigger notes. As there are only One Sa and Pa, they are represented as S and P only.
+' if Prefixed before a note, it's the lower octave note. If " is suffixed after a note, it's the higher octave note
+
+
+Music    : A. R. Rahman
+Singers : P.Jayachandran & Chinmayi
+Original pitch : C
+I've sung it in : G# 
+
+
+(Rg Rg RmgR S R)" N S" 
+Nenjil jil jil jil jil
+
+(Rg Rg RmgR S R)" N S"
+Kaathil dhil dhil dhil dhil 
+
+NDN S"...R"N (SRSR)" NS"NS"
+Kannathil muthamittaal
+
+n...D..Pm
+Nee
+
+NDN S"...R"..NS"...
+Kannathil muthamittaal
+
+(Repeat)
+
+SR,'n...S R...m mPnP mg...m R...
+Oru deivam thantha poovae
+
+SR,'n...S R...m mPnP mg...
+Kannil thedal enna thaiyae
+
+SR,'n...S R...m mPnP mg...m R...
+Oru deivam thantha poovae
+
+SR,'n...S R...m mPnP mg...
+Kannil thedal enna thaiyae
+
+P...P Pm nPgm 
+Vaazhvu thodangum idam
+
+nD N...S...
+nee thanae
+
+Aalaap
+
+PnSRg...RgR...SRS n...
+DnDn DnSR n...
+
+P...P Pm nPgm 
+Vaazhvu thodangum idam
+
+nD N...S...
+nee thanae
+
+P...P mPn..P gm 
+Vaanam mudiyum idam 
+
+nD N...S...
+nee thaanae
+
+S...S S...S SmRS n..D N..S...
+Kaatrai pola nee vanthaiyae
+
+S...S S...S SmRS  n..D N..S...
+Swasamaaga nee nindraaiyae
+
+P...P P...P PSD m.. g.. R.. 
+Maarbil oorum uyirae
+
+( SR,'n...S R...m mPnP mg...m R...
+Oru deivam thantha poovae
+
+SS mRSnS R...m mPnP mg...
+Kannil thedal enna thaiyae )
+
+CHARANAM 
+
+MMM  M...M..
+Enathu sondham
+
+MND MmGmM
+nee
+
+MMM M...M..
+Enathu pagaiyum
+
+NDNRN  D MmG
+Nee
+
+MMM  M...M..
+Kaadhal malarum
+
+MND MmGmM
+Nee
+
+MMG SNSM....
+Karuvil mullum
+
+NDNRN  D MmG
+Nee
+
+D..D D...D D
+Chella mazhaiyum nee
+
+DRND MG MDMD
+Chinna idiyum nee
+
+D..D D...D D
+Chella mazhaiyum nee
+
+DRND M MDMG...
+Chinna idiyum nee
+
+D..D D...D D
+Pirantha udalum nee
+
+DRND MG MDMD
+Piriyum uyirum nee
+
+D..D D...D D
+Pirantha udalum nee
+
+DRND M MDMG...
+Piriyum uyirum nee
+
+P..P P..P PSD  m.. g.. R.. 
+Maranam eendra jananam nee
+
+( SR,'n...S R...m mPnP mg...m R...
+Oru deivam thantha poovae
+
+SS mRSnS R...m mPnP mg...
+Kannil thedal enna thaiyae)
+
+
+Regards 😊

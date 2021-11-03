@@ -1,0 +1,33 @@
+
+Song       : ek ladki ko dekha to
+Raagam     : 
+Arohanam   : 
+Avarohanam : 
+
+Created on : Sun Oct 31 2021 at 09:55:56 UTC 
+		   : Day: 304, Week: 43  
+
+prelude:
+nr1, g1-r1g1r1-n1-m2  nr1n, r1--m2 
+g--d--  g--d--
+
+ek ladki ko dekha to aisa laga
+nn,  n1-n-R1-- n1n/R1- n-n-
+
+jaise khilta gulaab, jaise shayar ka khwaab jaise
+nn    n1nn1  m2-n1   d1 d1 n1n n1n-n1 m2-n1 d1d1  n1-n
+
+ujli kiran jaise ban mein hiran jaise
+n1nn1 m2n1 d1-d1-d1-d1-r1 d1-m2-m2 m2-m2-m2-
+
+chandni raat jaise narmi baat jaise
+g1-d1-m2-m2-  m2-d1-d1--g- nd1m2-- m2-m2-m2
+
+mandir mein ho ek jalta diya ho
+m2-n-r1-r1  r1-r1-r1- m2-n-r1-r1 r1-r1-  r1-r1 -r1-r1 r1.g1.r1. n
+
+interlude:
+m2n1-r1-n n n-n n-m2 n1-r1-n n nn n
+m2n-m2-rd1 d1 d1-d1-d1 g1g d1-m2- m2-m2-m2-- n
+
+

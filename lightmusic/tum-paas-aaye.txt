@@ -1,0 +1,70 @@
+
+Song       : tum paas aaye
+Raagam     : 
+Arohanam   : 
+Avarohanam : 
+
+Created on : Fri Oct 08 2021 at 03:26:42 UTC 
+		   : Day: 281, Week: 40  
+
+
+Tum Paas Aaye
+NS  N  D P N
+
+Yoon Muskuraye
+NS   N  D P N
+
+Tumne Na Jaane Kya
+D ND  P  m  D  R
+
+Sapne Dikhaye
+D PN  P P  P
+
+Ab To Mera Dil
+PP D  N G  R
+
+Jaage Na Sota Hai
+PP D  N  G G  R
+
+Kya Karoon Haaye
+DN  D P    m Gm GR
+
+Kuch Kuch Hota Hai
+D P  D P  P P  P
+
+Kya Karoon Haaye
+N D N D P  m Gm GR
+
+Kuch Kuch Hota Hai || Tum Paas Aaye
+D P  S N  P P  P
+
+Na Jaane Kaisa Ehsaas Hai
+N  S  R  GS N  D N  S R
+
+Bujhti Nahin Hai Kya Pyaas Hai
+N S R  G S   N   D   N   S R
+
+Kya Nasha Is  Pyaar Ka
+P   N D   Pm  m   D R
+
+Mujhpe Sanam Chaane Laga
+P m G  R GRS RD  m  P DN
+
+Koi Na Jaane
+PPD N  G  R
+
+Kyon Chain Khota Hai
+PP   D   N G  G  R
+
+Kya Karoon Haaye
+DN  D P    m Gm GR
+
+Kuch Kuch Hota Hai
+D P  D P  P P  P
+
+Kya Karoon Haaye
+N D N D P  m Gm GR
+
+Kuch Kuch Hota Hai || Tum Paas Aaye
+D P  S N  P P  P
+

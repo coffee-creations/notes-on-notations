@@ -1,0 +1,35 @@
+
+Song       : inkem inkem inkem kaavale
+Raagam     : Ananda bhairavi -n- kaapi
+Arohanam   : 
+Avarohanam : 
+
+Created on : Wed May 19 2021 at 16:15:50 UTC 
+		   : Day: 139, Week: 20  
+
+s.,s.,r.,m., p,d,p,d, s.,
+d,,n.,s.,n., d,n.,s.,n.,~ p.,
+s,r,g,p., d,s,p,d, s., 
+d,,n.,s.,n., d,n.,s.,n., p.,
+
+s.,n.,d.,n., s.,g,r.,g, s.,
+s.,n.,d.,n., s.,g,r.,g, s.,  m., gr
+s.,n.,d.,n., s.,g,r.,g, s.,
+s.,n.,d.,n., s.,m.,g.,m., r,m, n.,p, g.,r,s,
+
+s,s,r.,m., p,d,p,d, s.,
+d,n.,s.,n., d,n.,s.,n., p.,
+s,r,g, p,d,s., p,d,s., r,g,r.,s, 
+d,n.,s.,n., d,n.,s.,n., p.,
+
+s.,s, s.,n., d,n.,s,r., s.,n.,s.,
+s.,s, s.,n., d,n.,s,r., s.,n, d~.,p.,
+s.,s, s.,n., d,n.,s,r., s.,n.,s., r.,g, r.,g r,s,n,s.,
+g., g.,g, g,m, g,m, r.,m, g.,p, g.,r.,
+g., g.,g, g,m, g,m, r.,m, n.,p  g.,r.,
+
+s.,s.,r.,m., p,d,p,d, s.,
+d,,n.,s.,n., d,n.,s.,n.,~ p.,
+s,r,g,p., d,s,p,d, s., 
+d,,n.,s.,n., d,n.,s.,n., p.,
+

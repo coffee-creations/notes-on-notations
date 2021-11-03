@@ -1,0 +1,123 @@
+
+Song       : andha arabic kadaloram
+Raagam     : 
+Arohanam   : 
+Avarohanam : 
+
+Created on : Fri Oct 08 2021 at 02:55:06 UTC 
+		   : Day: 281, Week: 40  
+
+
+Prelude
+GMP MGr  S r Sn  S r G
+
+Sr  MGMGMGMG MGMPMGr  S S
+
+GMP MGr  S r Sn  S r G
+
+Sr  MGMGMGMG MGMPMGr  S S
+
+Sitar
+PMG MGr  MGr  r S
+
+Andha Arabikkadaloaram
+S S   MM G R  R S  R
+
+Oru Azhagai Kandaenae
+SS  MM  G   RR S  R
+
+Andha Kannith Thendral Aadaigalaakka
+S S   MMG     RR S     RRS  R R  S
+
+Kangal Kandaenae
+G  G   R  S  RG
+
+Humma Humma Humma Humma Humma
+S S   S S   S S   S S   S R
+
+Hey Humma Humma Humma Humma Humma
+G   S S   S S   S S   S S   S R
+
+Ae Palliththaamaraiyae
+SS MMG  R     R S  R
+
+Un Paadham Kandaenae
+S  M  G    RR S  R
+
+Un Pattu Dhaavani Chariya Chariya
+SS M G   RR    S  R  R S  R  R S
+
+Meedham Kandaenae
+G  G    R  S  RG
+
+Humma Humma Humma Humma Humma
+S S   S S   S S   S S   S R
+
+Hey Humma Humma Humma Humma Humma || Antha
+G   S S   S S   S S   S S   S R
+
+Interlude
+
+Flute
+SR GM PM GR S
+SR GM PM GR S
+
+Sitar
+S n  D PDn  SS n DD PDPDn 
+
+S n  D PDn  SSS g g  MPM g RS
+
+Flute
+SR GM PM GR S
+SR GM PM GR S
+SRSS RSS SRSS R
+SRSS RSS SRSS R
+SRSS RM SRSS RP SRSS RD D PDP MGM GMG S
+
+Saelai Oaram Vandhu Aalai Moadhiyadhu
+S  S   S n   n  n   S S   S  R  R R
+
+Aahaa Enna Sugamo
+S S   n n  S S R
+
+Pinjup Ponviralgal Nenjaith Theendiyadhu
+M  M   M  M M  M   P  P     G    R S S
+
+Aahaa Enna Hidhamo
+G G   RS   S S  S
+
+Siththam Kilugilukka Raththam Thudithudikka
+S S      S n n   n   S S      S  R    R R
+
+Muththam Nooru Vidhamo
+S S      n n   S S  R
+
+Achcham Naanam Ada Aalaik Kalaindhavudan
+MM      M  M   MM  P P    G     R  S S
+
+Ayyo Daiva Padhamoa
+G G  R  S  S    n 
+
+Humma Humma Humma Humma Humma
+S S   S S   S S   S S   S R
+
+Hey Humma Humma Humma Humma Humma || Antha
+G   S S   S S   S S   S S   S R
+
+Female Humming
+GMPM Gr  Sr Sn  S r G
+
+Sr  MGMGMGMG MGMPMGr  S S
+
+GMPM Gr  S r Sn  S r G
+
+Sr  MGMGMGMG MGMPMGr  S S
+
+Humma Humma in High Pitch
+Humma Humma Humma Humma Humma
+m m   m m   m m   m m   m d 
+
+Hey Humma Humma Humma Humma Humma
+n   m m   m m   m m   m m   m d 
+
+
