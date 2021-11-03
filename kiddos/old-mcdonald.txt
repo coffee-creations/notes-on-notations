@@ -1,0 +1,13 @@
+## ====== **  old-mcdonald.txt  **   ======== 
+#Created on: Thu May 06 2021 at 11:01:04 UTC 
+#		   - Day: 126, Week: 18 
+
+
+s s sp , d d p, 
+g g , r r , s
+p s s  sp, d d p, 
+g g , r r , s
+
+pp sss pp sss
+s ss s ss s ss ss s
+

@@ -1,0 +1,11 @@
+## ====== **  barney-d-dynasuar.txt  **   ======== 
+#Created on: Thu May 06 2021 at 10:03:19 UTC 
+#		   - Day: 126, Week: 18 
+
+
+p g p, p g p
+d p m g , r g m
+gm p s s 
+sss srgm p
+p r r m, g r s
+
