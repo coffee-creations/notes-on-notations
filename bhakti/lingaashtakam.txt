@@ -1,0 +1,30 @@
+
+Song       : Lingaashtakam
+Raagam     : Shivaranjani
+Arohanam   : s.,r2.,g1.,p.,d2.,S., 
+Avarohanam : S.,d2,p.,g1.,r2.,s., 
+
+Created on : Mon May 17 2021 at 10:15:32 UTC 
+		   : Day: 137, Week: 20  
+
+Brahma muraari., suraarchitha lingam
+nirmala bhashitha shobhitha lingam
+sanjitha paapa vinaashaka lingam
+tat pranamaami sadaashiva lingam
+
+deva muni pravaraarchitha lingam
+kaama dhahara karunaakara lingam
+raavana dharpa vinaashaka lingam
+tat pranamaami sadaashiva lingam
+
+s., r,r., g.,g,r., g.,g,r., g., g.,
+r., r,s., r.,s,d., s..,r,g, r., r.,
+s., r,g., /p.,p,p.,p.,d,p.,\g., r., 
+s., r,g., r.,s,d., r.,g,s., s., s.,
+
+p.,p,p., d.,d,d., d1.,d1,d1., p.,p.,
+p.,p,p., d.,d,d., d1.,d1,d1., p.,p.,
+g.,p.,g, d.,p,d., g.,p,g., r., r.,
+s., r,g., r.,s,d., r.,s,s., s., s.,
+
+

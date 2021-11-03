@@ -1,0 +1,45 @@
+
+Song       : Suprabhatham
+Raagam     : sudhdha saaveri
+Arohanam   : s,r2., m1,p, d2.,S.,
+Avarohanam : S.., d2., p., m1,r2., s.,
+
+Created on : Mon Jun 07 2021 at 02:58:04 UTC 
+		   : Day: 158, Week: 23  
+
+kausalya supraja rama purva
+s..,r..,r.., s.,r,r., s., r..,
+s.,r., s.,r., s,r..,'m, r,s..,
+s..,r.., m,r,s,r.,  s., d.,
+d..,s..,r..,  s.., m,r,s.., r,s., 
+
+uththishta uthishta
+s.., r..,r.., s., r,r., s., r..,
+s., r., s., r., s,r..,'m, r,s..,
+s.., r.., m,r,s,r.,  s., d.,
+d..,s..,r..,  s.., m,r,s.., r,s., 
+
+Maatasamastha...
+s.., r.,  s,r..,r, r,s,r.., r,s,r..,m, r.,s.,
+s.., r.,  s,r..,r, r,s,r.., r,s,r..,m, r.,s.,
+s.., r.,  s,r..,r, r,s,r.., r,s,r..,m, r.,s.,
+d,s,r., s,r., s,s,r,s,d.., d,d,d..,r, s., .s,
+
+Sthothram: Kamalakucha
+d,s, r..,r,s, r..,r,s, r..,r,s, r...,
+d,s, r,m,r,s, r..,r,s, r,s,  r,r, s..,
+d,s, r..,r,s, r..,r,s, m,r, r,s,d..,
+d,s, r,m,r,s  r..,r,s, r,s, r,r, s..,
+
+Vina venkatesham
+s,m,r, r.,m,r,s,r.., s,r,m,r., s,r,m,r.,
+s,r., r.,m, r,s,r.., s,r.,m, s,r..,s, 
+s,m,r, r..,m., r,s,r., s,r..,m, r,s, d..,d,
+d,s., r..,m,r,s,r.., d,s,r.., s,r., s.,
+
+prabhadhdhi and mangalaa shaasanam
+has only sa and ri., according to the lyrics
+
+d,s,r., m,r.,,  r.,s,r.,d., 
+d,s,r., s,r.., s.,
+

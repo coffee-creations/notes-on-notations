@@ -1,0 +1,25 @@
+
+Song       : Harivaraasanam
+Raagam     : madhyamaavathi 
+Arohanam   : s,r2.., m.,p n1.,S 
+Avarohanam : S.,n1.,p., m,r2.,s.. 
+
+Created on : Mon May 17 2021 at 08:26:57 UTC 
+		   : Day: 137, Week: 20  
+
+harivaraasanam vishwa mohanam
+harithadheeshwaram aaraadhya paadhukam
+harivimardhanam nithya narthanam
+hariharaathmajam devamaashraye
+
+n,s,s, s.,s',r., \n.,n, /r.,s,s.,
+n,s,r, s.,r.,snp.,  n.,r.,s, s.,s,s.,
+
+r,m,m, m.,m,m., r..,s, r.,,m, m.,m,m,
+m,p,m, p.,n., p,m,r., r.,s, s.,s,s.,
+
+m,p,p, p.,p,p., m.,r,  m,p,p, p.,p,p.,
+p,n,n, n.,n, S.,n,p.,m, r.,s, s.,s,s.,
+
+
+

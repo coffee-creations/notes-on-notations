@@ -1,0 +1,23 @@
+
+Song       : Krishna nee begane baaro
+Raagam     : yaman kalyaani
+Arohanam   : s,r2., g2.,m1.,g., p.,d2,n.,d2,S., 
+Avarohanam : S.,n.,d.,p., m.,g,m.,r.,s., 
+
+Created on : Mon May 17 2021 at 11:30:48 UTC 
+		   : Day: 137, Week: 20  
+
+krishnaa., nee begane baaro
+krishnaa., nee b~eg~ane baaro
+krishnaa., nee b~eg~ane b~aaro
+
+begane baaro., mukha vanne th~oro
+
+s,g., r.., s,n.,d, n.,r., gp, gr.,s.,
+s,g., r.., s.,n,r.,s, n.,d, n.,r.,  gp, gr.,s.,
+s,g., r.., s.,n,r.,s, n.,d, n.,r.,  g/p.., gr.,s.,
+
+g,p,r., g,p, p.,p., p,p., d.,d., p.,dns., pmg.,
+g,p,r., g,p, p.,p., p,d,n,d, p,p.,
+
+
