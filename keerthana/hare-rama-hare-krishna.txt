@@ -1,0 +1,14 @@
+## ====== **  hare-rama-hare-krishna.txt  **   ======== 
+#Created on: Thu May 06 2021 at 09:45:21 UTC 
+#		   - Day: 126, Week: 18 
+
+rg m--m--
+gr g--g--
+rs r--r--
+gr s--s--
+
+pd n--n--
+dp d--d--
+pm p--p--
+dp m--m--
+
