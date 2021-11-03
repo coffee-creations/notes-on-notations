@@ -1,0 +1,31 @@
+
+Song       : tandhana na aahi - Brahmam okate 
+Raagam     : Bowli
+Arohanam   : s.,r1.,g3., p,d1,,S.,
+Avarohanam : S.,n3.,d1.,p,g3,r1, s.,
+
+Created on : Mon May 17 2021 at 12:07:27 UTC 
+		   : Day: 137, Week: 20  
+
+
+tandana na aahi , tandana na pure , tandana na balaa
+tandanaanaa., balaa., tandanaanaa., balaa., tandanaanaa
+brahmam okate brahamam okate braham okate 
+
+g,p,p.,  pd1S.,  d1,p., 
+g,p,p.,  pd1S.,  d1,p., 
+g,p,p.,  pd1S.,  d1,p., g.,p,d1.,p,g., 
+g,r1., r1.,g,r1.,s,s., 
+g,r1.,r1.,g,r1.,s s., 
+g,r1.,r1.,g, r1.,s s., 
+
+p,p,d1,p., g,p,d1.,p, g,r1,r1.,g, r1.,s.,
+s,r1,g,p., p.,p,p., p,d1,s, d1.,p,p.,
+p,p,d1,p., g,p,d1.,p, g,r1,r1.,g, r1.,s.,
+s,r,g,p., p.,p,p., p,d,s, d.,p,p.,
+
+p,g,p,d1., S.,S,S,S., S,R1,G., R1,S., S,R1,G.,
+R1,R1, R1,R, R1.,R1,R1.,  S,R1,G,  R1.,S,S.,
+G,G,R1., R1.,G, R1.,S., G,G,R1., R1.,G, R1.,S.,
+G,G,R1., R1.,G, R1.,S., G,G,R1., R1.,G, R1.,S.,
+
